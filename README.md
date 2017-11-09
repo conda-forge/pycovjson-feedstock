@@ -16,7 +16,9 @@ common scientific data formats e.g NetCDF.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/pycovjson-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pycovjson-feedstock)
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pycovjson-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pycovjson-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pycovjson-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pycovjson-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pycovjson-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pycovjson-feedstock/branch/master)
 
 Current release info
 ====================
